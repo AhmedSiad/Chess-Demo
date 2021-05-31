@@ -1,0 +1,22 @@
+#board {
+  width: 600px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+button {
+    height: 1.5em;
+    width: 6em;
+    font-size: 1.5em;
+    color: white;
+    border: solid #337FED 1px;
+    background-image: linear-gradient(to bottom, #006699, #0099CC);
+}
